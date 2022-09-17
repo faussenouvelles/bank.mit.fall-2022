@@ -26,7 +26,7 @@
     <script src="https://unpkg.com/react-router-dom@5.2.1/umd/react-router-dom.min.js" crossorigin></script>
 
     <!-- load our react component. -->
-    <a href= "https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/context.js" defer type="text/babel"></script>
+    <a href= "https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/context.js"</a>
     <script type="text/javascript"> const Route       = ReactRouterDOM.Route;
       const Link        = ReactRouterDOM.Link;
       const HashRouter  = ReactRouterDOM.HashRouter;
