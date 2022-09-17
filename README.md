@@ -52,7 +52,7 @@
           );    
         }
         </script>
-    <script src="navbar.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/navbar.js" defer type="text/babel"></script>
     <script type="text/javascript">function NavBar(){
       return(
         <>
@@ -88,13 +88,13 @@
       );
     }"
     </script>
-    <script src="createaccount.js" defer type="text/babel"></script>
-    <script src="login.js" defer type="text/babel"></script>
-    <script src="deposit.js" defer type="text/babel"></script>
-    <script src="withdraw.js" defer type="text/babel"></script>
-    <script src="balance.js" defer type="text/babel"></script>
-    <script src="alldata.js" defer type="text/babel"></script>
-    <script src="home.js" defer type="text/babel"></script>
-    <script src="index.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/createaccount.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/login.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/deposit.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/withdraw.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/balance.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/alldata.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/home.js" defer type="text/babel"></script>
+    <script src="[index.js](https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/index.js)" defer type="text/babel"></script>
   </body>
 </html>
