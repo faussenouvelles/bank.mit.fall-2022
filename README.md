@@ -95,6 +95,6 @@
     <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/balance.js" defer type="text/babel"></script>
     <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/alldata.js" defer type="text/babel"></script>
     <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/home.js" defer type="text/babel"></script>
-    <script src="[index.js](https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/index.js)" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/bank.mit.fall-2022/main/index.js" defer type="text/babel"></script>
   </body>
 </html>
